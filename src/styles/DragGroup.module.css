@@ -1,0 +1,7 @@
+.group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: column;
+  height: 300px;
+}

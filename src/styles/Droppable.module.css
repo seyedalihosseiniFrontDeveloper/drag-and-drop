@@ -1,0 +1,7 @@
+.droppable {
+  border: 1px solid #c3bdbd;
+  border-radius: 10px;
+  text-align: center;
+  width: 80%;
+  padding: 20px 0;
+}
